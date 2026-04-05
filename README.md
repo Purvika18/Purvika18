@@ -8,6 +8,7 @@ Right now I’m in Germany, doing my M.Sc. in Applied Computer Science at Hochsc
 
 I like understanding how systems fit together end to end, not just fixing one small bug and moving on. And I really enjoy that moment when a script replaces something that used to take hours of repetitive clicking.
 
+---
 
 ## 🛠️ What I usually work with
 
@@ -17,6 +18,7 @@ I like understanding how systems fit together end to end, not just fixing one sm
 **Systems / Platforms:** Android SDK · lwIP · FreeRTOS · IPv6  
 **Tools:** Git · Docker · Android Studio · Godot 4  
 
+---
 
 ## 🚀 Some things I’ve built
 
@@ -29,7 +31,7 @@ I like understanding how systems fit together end to end, not just fixing one sm
 | **Face Mask Detection** | Real-time mask / no-mask detector using a lightweight CNN | Python, TensorFlow |
 | **Smart Course Finder** | Prototype that recommends university courses using basic NLP/RAG ideas | Python, NLP, retrieval |
 
-
+---
 
 ## 📍 Right now
 
@@ -37,8 +39,10 @@ I like understanding how systems fit together end to end, not just fixing one sm
 - Looking for Werkstudent or full-time roles in **Software Engineering**, **QA / Test Automation**, or **applied AI**  
 - Based in Schmalkalden (Thuringia), open to remote and to moving within Germany  
 
+---
 
-## 📫 Find me here      
+## 📫 Find me here
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Purvika_Panwar-blue)](https://linkedin.com/in/purvikapanwar)  
 [![GitHub](https://img.shields.io/badge/GitHub-Purvika18-black)](https://github.com/Purvika18)  
 📧 [purvika.akgec@outlook.com](mailto:purvika.akgec@outlook.com)
